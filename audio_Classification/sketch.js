@@ -1,3 +1,7 @@
+//Name: LET US POOP
+//Date: 8 Feb 2026
+//Author: Zhang Yuxin (Giogio) and Lexin Li (Lexin)
+
 let classifier;
 let label = "Click to start";
 let bgColor;
